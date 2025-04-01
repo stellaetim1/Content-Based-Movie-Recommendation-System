@@ -29,3 +29,19 @@ The final model was deployed as a web app using Streamlit for an interactive rec
 
 ###  IMDb Score by Content Rating
 ![IMDb Score Boxplot](images/imdb_score_boxplot.png)
+
+
+##  Run the Streamlit App
+
+To launch the interactive movie recommendation app locally:
+
+```bash
+# Step 1: Navigate to the app folder
+cd app
+
+# Step 2: Run the Streamlit app
+streamlit run streamlit_app.py
+
+
+The app will open in your web browser. You can enter a movie title and get personalised content-based recommendations.
+
