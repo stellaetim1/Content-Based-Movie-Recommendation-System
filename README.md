@@ -33,11 +33,11 @@ The final model was deployed as a web app using Streamlit for an interactive rec
 
 ##  Streamlit App Preview
 
-###  Search and Get Movie Recommendations
-![Streamlit Search](images/streamlit_search_recommendations.png)
-
 ###  Create a New User Profile
 ![Streamlit Profile](images/streamlit_create_profile.png)
+
+###  Search and Get Movie Recommendations
+![Streamlit Search](images/streamlit_search_recommendations.png)
 
 
 
