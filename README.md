@@ -31,6 +31,16 @@ The final model was deployed as a web app using Streamlit for an interactive rec
 ![IMDb Score Boxplot](images/imdb_score_boxplot.png)
 
 
+##  Streamlit App Preview
+
+###  Search and Get Movie Recommendations
+![Streamlit Search](images/streamlit_search_recommendations.png)
+
+###  Create a New User Profile
+![Streamlit Profile](images/streamlit_create_profile.png)
+
+
+
 ##  Run the Streamlit App
 
 To launch the interactive movie recommendation app locally:
