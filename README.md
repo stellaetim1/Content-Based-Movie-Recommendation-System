@@ -1,6 +1,7 @@
 # Content-Based Movie Recommendation System 
 
-This project explores different machine learning techniques for building a content-based movie recommendation system. It uses movie attributes to generate recommendations based on similarity, helping solve the cold start problem often seen in collaborative filtering.
+This project explores different machine learning techniques for building a content-based movie recommendation system. It recommends movies based on their features, such as genre, keywords, cast, and plot. This is making it suitable for new users and items without relying on user interaction data.
+
 
 ## Tools Used
 - Python (Google Colab)
